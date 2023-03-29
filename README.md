@@ -1,3 +1,3 @@
-# review-scrapper-aws
+# review-scrapper-Azure
 
 Flipkart Review Scrapper project 
